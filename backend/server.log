@@ -1,0 +1,36 @@
+INFO:     127.0.0.1:57721 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62810 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62814 - "OPTIONS /upload_resume HTTP/1.1" 200 OK
+[job_fetcher] Starting SerpAPI search with query='Python Backend Developer AWS Docker FastAPI', location='United States', gl='us', hl='en', skills=['AWS', 'Docker', 'FastAPI', 'JavaScript', 'Machine Learning', 'MySQL', 'NLP', 'Node.js', 'Python', 'REST API', 'React', 'SQL']
+[job_fetcher] SerpAPI returned 3 raw jobs.
+[job_fetcher] Returning 3 SerpAPI jobs.
+INFO:     127.0.0.1:62817 - "POST /upload_resume HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57527 - "GET /job-alerts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52902 - "GET /saved-jobs HTTP/1.1" 200 OK
+[job_fetcher] Starting SerpAPI search with query='Python Backend Developer AWS Git Java', location='United States', gl='us', hl='en', skills=['AWS', 'Git', 'Java', 'JavaScript', 'Machine Learning', 'MongoDB', 'MySQL', 'Node.js', 'Python', 'React', 'SQL']
+[job_fetcher] SerpAPI returned 4 raw jobs.
+[job_fetcher] Returning 4 SerpAPI jobs.
+INFO:     127.0.0.1:52902 - "POST /upload_resume HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52902 - "GET /job-alerts?analysis_id=7 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56783 - "GET /saved-jobs HTTP/1.1" 200 OK
+[job_fetcher] Starting SerpAPI search with query='Java Spring Boot Developer AWS Git Java', location='NOIDA', gl='in', hl='en', skills=['AWS', 'Git', 'Java', 'JavaScript', 'Machine Learning', 'MongoDB', 'MySQL', 'Node.js', 'Python', 'React', 'SQL']
+[job_fetcher] SerpAPI returned 10 raw jobs.
+[job_fetcher] Returning 10 SerpAPI jobs.
+INFO:     127.0.0.1:53390 - "GET /jobs?analysis_id=7&location=NOIDA&preferred_role=Java+Spring+Boot+Developer&preferred_country=in HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53390 - "GET /job-alerts?analysis_id=7 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60123 - "GET /job-alerts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52748 - "GET /saved-jobs HTTP/1.1" 200 OK
+[job_fetcher] Starting SerpAPI search with query='Python Backend Developer AWS Git Java', location='United States', gl='us', hl='en', skills=['AWS', 'Git', 'Java', 'JavaScript', 'Machine Learning', 'MongoDB', 'MySQL', 'Node.js', 'Python', 'React', 'SQL']
+[job_fetcher] SerpAPI returned 4 raw jobs.
+[job_fetcher] Returning 4 SerpAPI jobs.
+INFO:     127.0.0.1:50643 - "POST /upload_resume HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50643 - "GET /job-alerts?analysis_id=8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64554 - "GET /saved-jobs HTTP/1.1" 200 OK
+[job_fetcher] Starting SerpAPI search with query='Python Backend Developer AWS Git Java', location='Noida', gl='in', hl='en', skills=['AWS', 'Git', 'Java', 'JavaScript', 'Machine Learning', 'MongoDB', 'MySQL', 'Node.js', 'Python', 'React', 'SQL']
+[job_fetcher] SerpAPI returned 4 raw jobs.
+[job_fetcher] Returning 4 SerpAPI jobs.
+INFO:     127.0.0.1:61214 - "GET /jobs?analysis_id=8&location=Noida&preferred_role=Python+Backend+Developer&preferred_country=in HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61214 - "GET /job-alerts?analysis_id=8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61214 - "OPTIONS /saved-jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61214 - "POST /saved-jobs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61214 - "GET /saved-jobs HTTP/1.1" 200 OK
